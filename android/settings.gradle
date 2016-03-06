@@ -1,0 +1,3 @@
+rootProject.name = 'CNodeJS'
+
+include ':app'
